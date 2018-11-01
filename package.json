@@ -25,7 +25,7 @@
     "input"
   ],
   "dependencies": {
-    "inputmask-core": "^2.2.0",
+    "inputmask-core": "github:bifot/inputmask-core",
     "vue": "^2.2.6"
   },
   "devDependencies": {
